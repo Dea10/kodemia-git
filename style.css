@@ -1,9 +1,11 @@
 .headerStyle{
-    background-color:rgb(144, 222, 248);
+    background-color: green;
+    color: red;
     font-size: 20px;
     position: fixed;
     width: 100%;
 }
+
 .footerStyle{
     background-color: burlywood;
     font-size: 18px;
