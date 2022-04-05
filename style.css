@@ -4,3 +4,10 @@
     position: fixed;
     width: 100%;
 }
+.footerStyle{
+    background-color: burlywood;
+    font-size: 18px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
