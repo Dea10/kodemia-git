@@ -13,3 +13,15 @@
     bottom: 0;
     width: 100%;
 }
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 1000px;
+}
+
+.cajaCentrada{ 
+    background-color: pink;
+    color: red;
+}
